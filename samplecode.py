@@ -1,6 +1,5 @@
 """Simple Calculator module with basic operations"""
 
-
 class Calculator:
     """Simple Calculator class"""
 
